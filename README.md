@@ -1,6 +1,4 @@
 # wbc_classifies
-# Attention-Based Explainable Deep Learning for White Blood Cell Classification
-
 ## 📌 Overview
 
 This project presents an **attention-based and explainable deep learning framework for automated White Blood Cell (WBC) classification** using medical blood-cell images.
